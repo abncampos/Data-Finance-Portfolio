@@ -1,13 +1,13 @@
-# 📌 Personal Budget Dashboard
+# Personal Budget Dashboard
 
 A simple dashboard to track monthly income and expenses.
 
-## 🎯 What I did
+## What I did
 - Cleaned budget data
 - Built interactive graphs to show cash flow and spending categories
 - Used Dash to create a web dashboard
 
-## 🛠 Main Tools
+## Main Tools
 - pandas
 - plotly & dash
 
